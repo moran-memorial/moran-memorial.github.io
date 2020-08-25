@@ -102,6 +102,9 @@
 	}
 
 	.img-wrapper {
+		border-radius: 1000px;
+		box-shadow: 5px 5px 5px 5px gray;
+
 		position: relative;
 
 		&:before {
@@ -140,6 +143,10 @@
 
 	img {
 		width: 100%;
+
+		// TODO: 마우스 호버 네모 수정
+		border-radius: 1000px;
+		box-shadow: 5px 5px 5px 5px gray;
 	}
 
 	span {
