@@ -9,6 +9,7 @@ meta:
 project:
   title: "박종철"
   type: "Jekyll"
+  subtitle: "1965-1987"
   url: "/jongcheul-park"
   logo: "/assets/images/projects/jongcheul-park/logo.png"
 

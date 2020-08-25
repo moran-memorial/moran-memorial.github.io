@@ -57,6 +57,9 @@
 }
 
 .projects-list {
+
+	text-align: center;
+
 	@media (min-width: $breakpoint-small) {
 		margin-left: -1.5rem;
 		margin-right: -1.5rem;
@@ -72,9 +75,10 @@
 		}
 	}
 
+	// 사진 배열 사이즈 조정
 	@media (min-width: $breakpoint-medium) {
 		li {
-			width: 33.33333%;
+			width: 25%;
 		}
 	}
 
@@ -102,8 +106,9 @@
 	}
 
 	.img-wrapper {
+
 		border-radius: 1000px;
-		box-shadow: 5px 5px 5px 5px gray;
+		box-shadow: 0px 3px 10px 0px gray;
 
 		position: relative;
 
@@ -146,7 +151,7 @@
 
 		// TODO: 마우스 호버 네모 수정
 		border-radius: 1000px;
-		box-shadow: 5px 5px 5px 5px gray;
+		box-shadow: 0px 3px 10px 0px gray;
 	}
 
 	span {
@@ -373,4 +378,15 @@
 .contact,
 .follow {
 	margin-bottom: 3rem;
+}
+
+
+
+.subtitle{
+	font-size: 20px;
+	color: #BBBBBB;
+}
+
+.name{
+	font-size: 30px;
 }
