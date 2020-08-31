@@ -38,6 +38,9 @@ images:
 1965 - 1987
 <br><br>
 
+<iframe src="/assets/images/projects/jongcheul-park/anounce.mp3" frameborder="0" style="border: none; height: 58px; width: 100%; filter:Alpha( Opacity=50 );"></iframe>
+<br>
+
 ## STORY
 <p>
 박종철 열사는 1965년 부산에서 태어나셨습니다 1984년에 서울대 언어학과에 입학한 후에는 학생운동에 참여하여 다양한 활동을 펼치셨습니다.
